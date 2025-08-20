@@ -1,0 +1,68 @@
+The project enables the following workflow:
+
+User speaks a command through a client application.
+
+Amazon Transcribe converts voice input to text.
+
+Amazon Comprehend refines the prompt.
+
+Amazon Bedrock generates a video based on the refined text.
+
+Amazon S3 stores the generated video securely.
+
+Amazon CloudFront delivers the video globally with low latency.
+
+Amazon DynamoDB stores request metadata for tracking.
+
+
+The core infrastructure is defined in CloudFormation to ensure reproducibility and scalability.
+
+Included resources:
+
+S3 bucket with KMS encryption and versioning.
+
+DynamoDB table for request tracking.
+
+IAM roles with least-privilege access.
+
+Lambda function (orchestration logic).
+
+API Gateway endpoint.
+
+CloudFront distribution for video delivery.
+
+
+
+Security & Optimization
+
+Encryption: Data encrypted at rest (S3, DynamoDB with KMS) and in transit (TLS).
+
+IAM best practices: Minimal permissions for Lambda execution role.
+
+Scalability: Serverless design with Lambda and DynamoDB on-demand.
+
+Monitoring: CloudWatch, CloudTrail, and GuardDuty for auditing and security.
+
+Global delivery: CloudFront ensures low-latency access to videos.
+
+
+Deployment
+Prerequisites
+
+AWS CLI configured
+
+CloudFormation permissions
+
+S3 bucket for deployment artifacts (if packaging Lambda code separately)
+
+
+Next Steps
+
+Extend with Step Functions for orchestration (Transcribe → Comprehend → Bedrock → S3).
+
+Add Cognito authentication to secure the API Gateway endpoint.
+
+Replace Lambda placeholder code with actual orchestration logic.
+
+
+MIT License – feel free to use, modify, and share.
