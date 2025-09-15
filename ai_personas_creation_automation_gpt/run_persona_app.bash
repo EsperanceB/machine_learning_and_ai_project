@@ -1,0 +1,2 @@
+
+streamlit run ai_personas_creation_automation_gpt/streamlit_personas_app.py

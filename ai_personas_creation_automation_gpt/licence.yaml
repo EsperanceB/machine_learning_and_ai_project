@@ -1,0 +1,22 @@
+
+---
+
+### GPT Persona Creation Automation (`ai_personas_creation_automation_gpt/README.md`)
+```markdown
+# GPT Persona Creation Automation
+
+## Purpose
+Generate reusable GPT personas for projects such as voice-command systems and skill‑exchange platforms.  
+Each persona captures name, role, task, tone, and user‑supplied constraints (or “threats”).
+
+## Contents
+- `persona_creator.py` – `Persona` class and `save_persona` utility
+- `cli.py` – command-line interface
+- `streamlit_app.py` (optional) – web UI for persona creation
+- `personas/` – output directory for saved JSON files
+
+## Quick Start
+1. Ensure Python 3.8+ and dependencies (`streamlit` optional).
+2. Create a persona via CLI:
+   ```bash
+   python ai_personas_creation_automation_gpt/cli.py

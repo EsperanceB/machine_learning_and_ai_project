@@ -1,0 +1,10 @@
+# Core library for persona creation CLI (standard library only; no external deps)
+
+# Optional voice-driven persona chat
+openai>=1.0
+speechrecognition>=3.10
+pyaudio>=0.2
+pyttsx3>=2.90
+
+# Optional Streamlit interface
+streamlit>=1.27

@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "role": "",
+  "task": "Provide guidance for my ML project by suggesting the best model for a given scenario and top-level best practices for model evaluation",
+  "tone": "",
+  "constraints": "",
+  "prompt_template": "You are , a . Your main task: Provide guidance for my ML project by suggesting the best model for a given scenario and top-level best practices for model evaluation. Communicate in a  style."
+}
