@@ -1,0 +1,9 @@
+# Add required packages for LLM fine-tuning
+transformers
+torch
+datasets
+scikit-learn
+tqdm
+pandas
+matplotlib
+numpy

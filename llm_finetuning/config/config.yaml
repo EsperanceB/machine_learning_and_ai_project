@@ -1,0 +1,7 @@
+# Example configuration for LLM fine-tuning
+model_name: "distilgpt2"
+epochs: 3
+batch_size: 8
+learning_rate: 5e-5
+dataset_path: "../data/banking_synthetic.json"
+output_dir: "../output/"
