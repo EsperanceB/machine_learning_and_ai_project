@@ -1,0 +1,16 @@
+Instruction: Can I open a fixed deposit online?
+Response: Yes, fixed deposits can be opened online through your account dashboard.
+Instruction: How do I change my account type?
+Response: To change your account type, submit a request at your branch or through customer support.
+Instruction: How do I reset my online banking password?
+Response: Click on 'Forgot Password' on the login page and follow the instructions. You will need your registered email or phone number.
+Instruction: What should I do if I suspect fraud?
+Response: If you suspect fraud, contact our fraud helpline immediately. We will block your account and investigate the issue.
+Instruction: How do I request a cheque book?
+Response: Request a cheque book through online banking, mobile app, or at your branch. Delivery takes 5-7 business days.
+Instruction: How do I update my beneficiary information?
+Response: Beneficiary information can be updated by submitting a request through online banking or visiting a branch.
+Instruction: What is the process for closing an account?
+Response: To close your account, please visit a branch with your ID. Ensure all dues are cleared and submit a written request.
+Instruction: What is the process for applying for a credit card?
+Response: You can apply for a credit card online or at a branch. Approval is subject to eligibility and credit assessment.

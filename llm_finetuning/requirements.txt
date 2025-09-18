@@ -7,3 +7,4 @@ tqdm
 pandas
 matplotlib
 numpy
+accelerate>=0.26.0

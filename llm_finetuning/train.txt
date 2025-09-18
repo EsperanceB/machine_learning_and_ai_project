@@ -1,0 +1,62 @@
+Instruction: How do I transfer money between my accounts?
+Response: Log in to online banking, select 'Transfer Funds', choose the source and destination accounts, and enter the amount.
+Instruction: Is there a fee for international transfers?
+Response: Yes, international transfers incur a processing fee. Please check our website for current rates.
+Instruction: Can I open a joint account?
+Response: Yes, joint accounts can be opened at any branch. Both applicants must be present with valid IDs.
+Instruction: Are there charges for ATM withdrawals?
+Response: ATM withdrawals from our network are free. Withdrawals from other banks may incur a small fee.
+Instruction: How do I activate my new credit card?
+Response: Activate your new credit card by calling our activation line or using the mobile app.
+Instruction: Can I get a statement for the last 6 months?
+Response: Yes, you can download your account statement for the last 6 months from online banking or request it at a branch.
+Instruction: How do I check my loan eligibility?
+Response: You can check your loan eligibility using our online calculator or by contacting a loan officer.
+Instruction: How do I update my contact details?
+Response: You can update your contact details via online banking, mobile app, or by visiting a branch.
+Instruction: How do I block my account in case of emergency?
+Response: Contact our emergency helpline or use the 'Block Account' feature in the mobile app immediately.
+Instruction: How do I open a new savings account?
+Response: To open a new savings account, please visit your nearest branch with a valid ID and proof of address. You can also apply online through our website.
+Instruction: Can I set spending limits on my debit card?
+Response: Yes, you can set daily or monthly spending limits on your debit card through the mobile app or online banking.
+Instruction: Can I increase my credit card limit?
+Response: Yes, you can request a credit limit increase through our app or by contacting customer support. Approval is subject to review.
+Instruction: How do I apply for a business loan?
+Response: Business loan applications can be made online or at a branch. You will need business registration documents and financial statements.
+Instruction: What is the interest rate for personal loans?
+Response: Our current interest rate for personal loans starts at 7.5% per annum, subject to eligibility and credit assessment.
+Instruction: Can I schedule recurring payments?
+Response: Yes, you can schedule recurring payments for bills and transfers in the 'Payments' section of online banking.
+Instruction: Can I invest in mutual funds through the bank?
+Response: Yes, you can invest in mutual funds via our investment portal or by consulting a financial advisor at your branch.
+Instruction: How can I report a lost debit card?
+Response: You can report a lost debit card by calling our 24/7 helpline or using the mobile banking app. Your card will be blocked immediately to prevent unauthorized transactions.
+Instruction: Can I receive account alerts via SMS?
+Response: Yes, you can enable SMS alerts for account activity in your profile settings.
+Instruction: What is the interest rate for senior citizen accounts?
+Response: Senior citizen accounts offer an interest rate of 8% per annum. Please check our website for details.
+Instruction: What documents are required for a home loan application?
+Response: You will need to provide proof of income, identity, address, and property documents for a home loan application.
+Instruction: How do I get a copy of my tax statement?
+Response: Download your tax statement from the 'Statements' section in online banking or request it at a branch.
+Instruction: What should I do if my account is locked?
+Response: If your account is locked, contact customer support or use the 'Unlock Account' feature on the login page.
+Instruction: What is the procedure for updating my address?
+Response: Update your address by submitting proof of new address via online banking or at a branch.
+Instruction: What is the minimum balance for a savings account?
+Response: The minimum balance required for a savings account is $500. Falling below this may incur charges.
+Instruction: How do I download the mobile banking app?
+Response: Visit the App Store or Google Play, search for our bank's app, and download it. Log in using your online banking credentials.
+Instruction: What is the maximum cash withdrawal limit per day?
+Response: The maximum daily cash withdrawal limit is $2,000 for savings accounts.
+Instruction: How do I enable two-factor authentication for my account?
+Response: Log in to online banking, go to 'Security Settings', and enable two-factor authentication. Follow the prompts to link your mobile device.
+Instruction: How do I dispute a transaction?
+Response: You can dispute a transaction by filling out a dispute form online or at a branch. Our team will investigate and update you.
+Instruction: How do I set up automatic bill payments?
+Response: You can set up automatic bill payments through online banking or the mobile app under the 'Payments' section.
+Instruction: How do I check the status of my loan application?
+Response: Check your loan application status by logging into your account or contacting your loan officer.
+Instruction: How do I contact customer support?
+Response: You can contact customer support via phone, email, or live chat on our website.
